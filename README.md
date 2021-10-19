@@ -29,7 +29,7 @@ Com base no exercício: [The Reading List](https://github.com/gSchool/JS-Intro-O
 
 - Número de livros marcados como não lidos
 
-#### Cada Book tem a seguintes propriedades:
+#### Cada Book tem as seguintes propriedades:
 
 - Title
 
@@ -54,7 +54,7 @@ Com base no exercício: [The Reading List](https://github.com/gSchool/JS-Intro-O
 
 - Define o livro atual, define como lido e atualiza a data para a data atual
 - Adiciona o livro a lista de livros lidos
-- Remove da lista de não listo
+- Remove da lista de não lidos
 - Atualiza a contagem de livros lidos e não lidos
 
 ##### .getCurrentBook()
@@ -71,7 +71,11 @@ Com base no exercício: [The Reading List](https://github.com/gSchool/JS-Intro-O
 
 ##### .getUnreadBooks()
 
-- Retorna a lista de livros
+- Retorna a lista de livros não lidos
+
+##### .getReadBooks()
+
+- Retorna a lista de livros lidos
 
 ##### .getBooksByAuthor(*author*)
 
