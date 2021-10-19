@@ -14,6 +14,8 @@ Com base no exercício: [The Reading List](https://github.com/gSchool/JS-Intro-O
 
 ### Resumo sobre o projeto:
 
+##### Nosso código: [BookList](https://github.com/marisasales/Santander-Coders-Modulo-3/blob/master/booklist.js)
+
 - Contem duas classes: ``` BookList``` e ```Book```
 
 #### BookList tem as seguintes propriedades:
